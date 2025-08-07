@@ -1,0 +1,12 @@
+name: dart_chess
+description: A simple console-based chess game written in Dart
+version: 1.0.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+executables:
+  dart_chess: main
+
+dev_dependencies:
+  test: ^1.24.0
